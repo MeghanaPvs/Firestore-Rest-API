@@ -11,7 +11,6 @@ const functions = require("firebase-functions");
 const admin= require("firebase-admin");
 
 
-//CODE SNIPPET VIDEO 4:
 
 
 //var admin = require("firebase-admin");
